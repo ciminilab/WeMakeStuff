@@ -2,7 +2,7 @@
 
 ## Work with us
 
-Office hours link
+[Office hours link](broad.io/imagingofficehours)
 
 CellProfiler annual support plan
 
@@ -76,7 +76,7 @@ Lab paper pages
 
 YouTube tutorials
 
-Office hours signup link
+[Office hours link](broad.io/imagingofficehours)
 
 Forum.image.sc
 
