@@ -4,11 +4,11 @@
 
 [Office hours link](broad.io/imagingofficehours)
 
-CellProfiler annual support plan
+[CellProfiler annual support plan](https://cellprofiler.org/supportplan)
 
-COBA signup form
+[COBA signup form](https://openbioimageanalysis.org/collaborate)
 
-Beth's bio page with contact email
+[Beth's Broad bio page with contact email](https://www.broadinstitute.org/bios/beth-cimini)
 
 ## Software we make
 
@@ -18,13 +18,13 @@ Beth's bio page with contact email
 
 [manual](https://broad.io/CellProfilerManual) 
 
-[plugins documentation]()
+[plugins documentation](https://plugins.cellprofiler.org/overview.html)
 
 [tutorials](https://tutorials.cellprofiler.org/)
 
-[GitHub]()  
+[GitHub](https://github.com/CellProfiler/CellProfiler)  
 
-[help forum]() 
+[help forum](https://forum.image.sc/tag/cellprofiler) 
 
 [pipeline suggester](https://www.boaq.org)
 
@@ -32,15 +32,15 @@ papers -  [CellProfiler-plugins [2023]](https://doi.org/10.1111/jmi.13223) [Cell
 
 ### CellProfiler Analyst
 
-[downloads]()  
+[downloads](https://cellprofileranalyst.org/releases)  
 
-[manual]()  
+[manual](https://cellprofileranalyst.org/manuals)  
 
-[GitHub]()  
+[GitHub](https://github.com/CellProfiler/CellProfiler-Analyst)  
 
-[help forum]() 
+[help forum](https://forum.image.sc/tag/cellprofiler-analyst) 
 
-papers - [2021 (CellProfiler Analyst 3)](https://doi.org/10.1093/bioinformatics/btab634)
+papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/btab634)
 
 ### Piximi
 
@@ -50,7 +50,7 @@ papers - [2021 (CellProfiler Analyst 3)](https://doi.org/10.1093/bioinformatics/
 
 [GitHub](https://github.com/piximi/piximi) 
 
-[help forum]() 
+[help forum](https://forum.image.sc/tag/piximi) 
 
 [preprint](https://doi.org/10.1101/2024.06.03.597232v1)
 
@@ -62,9 +62,9 @@ papers - [2021 (CellProfiler Analyst 3)](https://doi.org/10.1093/bioinformatics/
 
 ### Bilayers 
 
-[demo app]()
+[demo app](https://github.com/COBA-NIH/docker_gradio_demo)
 
-[GitHub]()
+[GitHub](https://github.com/bilayer-containers/bilayers)
 
 ## Educational materials
 
@@ -80,35 +80,35 @@ papers - [2021 (CellProfiler Analyst 3)](https://doi.org/10.1093/bioinformatics/
 
 ### Stuff we make
 
-Lab website
+[Lab website](https://cimini-lab.broadinstitute.org/)
 
-Lab paper pages
+[Lab paper pages](https://cimini-lab.broadinstitute.org/papers)
 
 [Current lab preprints (from Beth's CV)](https://docs.google.com/document/d/1zZfoo2b-IbEDbpJ5pH6V0KlfdiY7A-clsAdRr-ouYX8/preview#heading=h.ea9i2felg8yq)
 
 [Imaging Platform Blog](https://blog.cellprofiler.org)
 
-YouTube tutorials]()
+[YouTube tutorials](https://www.youtube.com/channel/UC_id9sE-vu_i30Bd-skay7Q)
 
 [Office hours link](broad.io/imagingofficehours)
 
-The Scientific Community Image Forum - Forum.image.sc]() [paper](https://doi.org/10.1371/journal.pbio.3000340)
+[The Scientific Community Image Forum - Forum.image.sc](https://forum.image.sc/) [paper](https://doi.org/10.1371/journal.pbio.3000340)
 
-[COBA website]()
+[COBA website](https://openbioimageanalysis.org/)
 
 Bioimaging Guide - [English](https://www.bioimagingguide.org/welcome.html) [Spanish](https://es.bioimagingguide.org/) [Portuguese](https://pt.bioimagingguide.org/) [Czech](https://cs.bioimagingguide.org/) 
 
-The Image Based Profiling Handbook]()
+[The Image Based Profiling Handbook](https://cytomining.github.io/profiling-handbook/)
 
-The Cell Painting Gallery (image repository) - [Website]() [Paper](https://doi.org/10.1038/s41592-024-02399-z)
+The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) [Paper](https://doi.org/10.1038/s41592-024-02399-z)
 
 ### Stuff we contributed to (but others led)
 
-[Online guide for checklists for imaging and image analysis]() [Paper -  Community-developed checklists for publishing images and image analysis [2023]](https://doi.org/10.1038/s41592-023-01987-9)
+[Online guide for checklists for imaging and image analysis](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html) [Paper -  Community-developed checklists for publishing images and image analysis [2023]](https://doi.org/10.1038/s41592-023-01987-9)
 
-Metrics Reloaded online metric chooser]() [Paper 1](https://doi.org/10.1038/s41592-023-02151-z) [Paper 2](https://doi.org/10.1038/s41592-023-02150-0)
+[Metrics Reloaded online metric chooser](https://metrics-reloaded.dkfz.de/) [Paper 1](https://doi.org/10.1038/s41592-023-02151-z) [Paper 2](https://doi.org/10.1038/s41592-023-02150-0)
 
-Microtutor imaging education platform]()
+[Microtutor imaging education platform](https://microtutor.globalbioimaging.org/)
 
 ## Papers you might find useful
 
@@ -138,4 +138,10 @@ Microtutor imaging education platform]()
 
 [A Call for FAIR and Open-Access Training Materials to advance Bioimage Analysis[2024]](https://doi.org/10.31219/osf.io/2zgmc)
 
-[The Crucial Role of BioImage Analysts in Scientific Research and Publication](https://doi.org/10.5281/zenodo.11457452)
+[The Crucial Role of BioImage Analysts in Scientific Research and Publication[2024]](https://doi.org/10.5281/zenodo.11457452)
+
+[Building momentum through networks: Bioimaging across the Americas[2024]](https://doi.org/10.1111/jmi.13318)
+
+[Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data[2024]](https://doi.org/10.48550/arXiv.2401.13022)
+
+[Enabling Global Image Data Sharing in the Life Sciences[2024]](https://doi.org/10.48550/arXiv.2401.13023)
