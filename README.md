@@ -100,7 +100,7 @@ Bioimaging Guide - [English](https://www.bioimagingguide.org/welcome.html) / [Sp
 
 [The Image Based Profiling Handbook](https://cytomining.github.io/profiling-handbook/)
 
-The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) / [Paper](https://doi.org/10.1038/s41592-024-02399-z)
+The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) / [Paper - Cell Painting Gallery: an open resource for image-based profiling[2024]](https://doi.org/10.1038/s41592-024-02399-z)
 
 ### Stuff we contributed to (but others led)
 
