@@ -28,7 +28,7 @@
 
 [pipeline suggester](https://www.boaq.org)
 
-papers -  [CellProfiler-plugins [2023]](https://doi.org/10.1111/jmi.13223) [CellProfiler 4 [2021](https://doi.org/10.1186/s12859-021-04344-9) [CellProfiler 3 [2018]](https://doi.org/10.1371/journal.pbio.2005970)
+papers -  [CellProfiler-plugins [2023]](https://doi.org/10.1111/jmi.13223) / [CellProfiler 4 [2021]](https://doi.org/10.1186/s12859-021-04344-9) / [CellProfiler 3 [2018]](https://doi.org/10.1371/journal.pbio.2005970)
 
 ### CellProfiler Analyst
 
@@ -92,21 +92,21 @@ papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/
 
 [Office hours link](broad.io/imagingofficehours)
 
-[The Scientific Community Image Forum - Forum.image.sc](https://forum.image.sc/) [paper](https://doi.org/10.1371/journal.pbio.3000340)
+[The Scientific Community Image Forum - Forum.image.sc](https://forum.image.sc/) / [Paper - Scientific Community Image Forum: A discussion forum for scientific image software[2019]](https://doi.org/10.1371/journal.pbio.3000340)
 
 [COBA website](https://openbioimageanalysis.org/)
 
-Bioimaging Guide - [English](https://www.bioimagingguide.org/welcome.html) [Spanish](https://es.bioimagingguide.org/) [Portuguese](https://pt.bioimagingguide.org/) [Czech](https://cs.bioimagingguide.org/) 
+Bioimaging Guide - [English](https://www.bioimagingguide.org/welcome.html) / [Spanish](https://es.bioimagingguide.org/) / [Portuguese](https://pt.bioimagingguide.org/) / [Czech](https://cs.bioimagingguide.org/) 
 
 [The Image Based Profiling Handbook](https://cytomining.github.io/profiling-handbook/)
 
-The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) [Paper](https://doi.org/10.1038/s41592-024-02399-z)
+The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) / [Paper](https://doi.org/10.1038/s41592-024-02399-z)
 
 ### Stuff we contributed to (but others led)
 
-[Online guide for checklists for imaging and image analysis](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html) [Paper -  Community-developed checklists for publishing images and image analysis [2023]](https://doi.org/10.1038/s41592-023-01987-9)
+[Online guide for checklists for imaging and image analysis](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)  / [Paper -  Community-developed checklists for publishing images and image analysis [2023]](https://doi.org/10.1038/s41592-023-01987-9)
 
-[Metrics Reloaded online metric chooser](https://metrics-reloaded.dkfz.de/) [Paper 1](https://doi.org/10.1038/s41592-023-02151-z) [Paper 2](https://doi.org/10.1038/s41592-023-02150-0)
+[Metrics Reloaded online metric chooser](https://metrics-reloaded.dkfz.de/) / [Paper 1 - Metrics reloaded: recommendations for image analysis validation[2024]](https://doi.org/10.1038/s41592-023-02151-z) / [Paper 2 - Understanding metric-related pitfalls in image analysis validation[2024]](https://doi.org/10.1038/s41592-023-02150-0)
 
 [Microtutor imaging education platform](https://microtutor.globalbioimaging.org/)
 
