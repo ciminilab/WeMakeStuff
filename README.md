@@ -2,6 +2,8 @@
 
 ## Work with us
 
+[Lab website](https://cimini-lab.broadinstitute.org/)
+
 [Office hours link](broad.io/imagingofficehours)
 
 [CellProfiler annual support plan](https://cellprofiler.org/supportplan)
@@ -52,7 +54,7 @@ papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/
 
 [help forum](https://forum.image.sc/tag/piximi) 
 
-[preprint](https://doi.org/10.1101/2024.06.03.597232v1)
+[preprint](https://doi.org/10.1101/2024.06.03.597232v2)
 
 ### Distributed-Something
 
@@ -60,17 +62,21 @@ papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/
 
 [paper](https://doi.org/10.1038/s41592-023-01918-8)
 
+Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedScience/Distributed-CellProfiler) / [Distributed-Collate](https://github.com/DistributedScience/Distributed-Collate) / [Distributed-DeepProfiler](https://github.com/DistributedScience/Distributed-DeepProfiler) / [Distributed-Fiji](https://github.com/DistributedScience/Distributed-Fiji) / [Distributed-HelloWorld](https://github.com/DistributedScience/Distributed-HelloWorld) / [Distributed-OMEZarrCreator](https://github.com/DistributedScience/Distributed-OMEZarrCreator)
+
 ### Bilayers 
 
 [demo app](https://github.com/COBA-NIH/docker_gradio_demo)
 
 [GitHub](https://github.com/bilayer-containers/bilayers)
 
+[Dockerhub](https://hub.docker.com/u/bilayer)
+
 ## Educational materials
 
 ### Educational papers we wrote
 
-[The Twenty Questions of Bioimage Object Analysis[2023]](https://doi.org/10.1038/s41592-023-01919-7)
+[The Twenty Questions of Bioimage Object Analysis[2023]](https://doi.org/10.1038/s41592-023-01919-7) / [Tool implementation](https://www.boaq.org)
 
 [A biologist’s guide to planning and performing quantitative bioimaging experiments[2023]](https://doi.org/10.1371/journal.pbio.3002167) 
 
@@ -102,6 +108,12 @@ Bioimaging Guide - [English](https://www.bioimagingguide.org/welcome.html) / [Sp
 
 The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) / [Paper - Cell Painting Gallery: an open resource for image-based profiling[2024]](https://doi.org/10.1038/s41592-024-02399-z)
 
+### Stuff we are major (but far from sole) contributors to
+
+Global Bioimage Analysts' Society (GloBIAS) Global Registries - [For bioimage analysts](https://www.globias.org/resources/bioimage-analyst-db) [For bioimage analysis trainers](https://www.globias.org/resources/bia-trainers-db)
+
+Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) / [2024 edition](https://www.i2kconference.org/virtual)
+
 ### Stuff we contributed to (but others led)
 
 [Online guide for checklists for imaging and image analysis](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)  / [Paper -  Community-developed checklists for publishing images and image analysis [2023]](https://doi.org/10.1038/s41592-023-01987-9)
@@ -132,16 +144,18 @@ The Cell Painting Gallery (image repository) - [AWS RODA Website](https://regist
 
 [Bridging Imaging Users to Imaging Analysis - A community survey[2023]](https://doi.org/10.1111/jmi.13229)
 
+[Current active 2024 survey](https://broad.io/imagingsurvey)
+
 ### Opinions/Perspectives
 
 [Moving beyond the desktop: Prospects for Practical Bioimage Analysis via the Web[2023]](https://doi.org/10.3389/fbinf.2023.1233748)
 
-[A Call for FAIR and Open-Access Training Materials to advance Bioimage Analysis[2024]](https://doi.org/10.31219/osf.io/2zgmc)
+[A Call for FAIR and Open-Access Training Materials to advance Bioimage Analysis (preprint)[2024]](https://doi.org/10.31219/osf.io/2zgmc)
 
-[The Crucial Role of BioImage Analysts in Scientific Research and Publication[2024]](https://doi.org/10.5281/zenodo.11457452)
+[The Crucial Role of BioImage Analysts in Scientific Research and Publication (preprint)[2024]](https://doi.org/10.5281/zenodo.11457452)
 
 [Building momentum through networks: Bioimaging across the Americas[2024]](https://doi.org/10.1111/jmi.13318)
 
-[Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data[2024]](https://doi.org/10.48550/arXiv.2401.13022)
+[Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data (preprint)[2024]](https://doi.org/10.48550/arXiv.2401.13022)
 
-[Enabling Global Image Data Sharing in the Life Sciences[2024]](https://doi.org/10.48550/arXiv.2401.13023)
+[Enabling Global Image Data Sharing in the Life Sciences (preprint)[2024]](https://doi.org/10.48550/arXiv.2401.13023)
