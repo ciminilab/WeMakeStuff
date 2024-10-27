@@ -110,7 +110,7 @@ The Cell Painting Gallery (image repository) - [AWS RODA Website](https://regist
 
 ### Stuff we are major (but far from sole) contributors to
 
-Global Bioimage Analysts' Society (GloBIAS) Global Registries - [For bioimage analysts](https://www.globias.org/resources/bioimage-analyst-db) [For bioimage analysis trainers](https://www.globias.org/resources/bia-trainers-db)
+Global Bioimage Analysts' Society (GloBIAS) Global Registries - [For bioimage analysts](https://www.globias.org/resources/bioimage-analyst-db) / [For bioimage analysis trainers](https://www.globias.org/resources/bia-trainers-db)
 
 Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) / [2024 edition](https://www.i2kconference.org/virtual)
 
