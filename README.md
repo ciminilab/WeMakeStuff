@@ -150,11 +150,11 @@ Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) /
 
 [Moving beyond the desktop: Prospects for Practical Bioimage Analysis via the Web[2023]](https://doi.org/10.3389/fbinf.2023.1233748)
 
-[A Call for FAIR and Open-Access Training Materials to advance Bioimage Analysis (preprint)[2024]](https://doi.org/10.31219/osf.io/2zgmc)
-
-[The Crucial Role of BioImage Analysts in Scientific Research and Publication (preprint)[2024]](https://doi.org/10.5281/zenodo.11457452)
-
 [Building momentum through networks: Bioimaging across the Americas[2024]](https://doi.org/10.1111/jmi.13318)
+
+[The Crucial Role of BioImage Analysts in Scientific Research and Publication[2024]](https://doi.org/10.1242/jcs.262322)
+
+[A Call for FAIR and Open-Access Training Materials to advance Bioimage Analysis (preprint)[2024]](https://doi.org/10.31219/osf.io/2zgmc)
 
 [Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data (preprint)[2024]](https://doi.org/10.48550/arXiv.2401.13022)
 
