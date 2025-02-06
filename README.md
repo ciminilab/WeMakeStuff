@@ -4,6 +4,9 @@ Below are ways to collaborate our lab, pointers to our software and its document
 
 This page last updated 2025-Feb-06
 
+Jump to:
+[Software](Software-we-make)
+
 ## Work with us
 
 [Lab website](https://cimini-lab.broadinstitute.org/)
