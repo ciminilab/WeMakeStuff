@@ -24,7 +24,11 @@ Jump to:
 
 ## Software we make {#software}  
 
-### CellProfiler
+Jump to:
+
+[CellProfiler](#cellprofiler) | [CellProfiler Analyst](#cpa) | [Piximi](#piximi) | [Distributed Something](#ds) | [Bilayers](#bilayers)
+
+### CellProfiler {#cellprofiler}
 
 [downloads](https://cellprofiler.org/releases) 
 
@@ -42,7 +46,7 @@ Jump to:
 
 papers -  [CellProfiler-plugins [2023]](https://doi.org/10.1111/jmi.13223) / [CellProfiler 4 [2021]](https://doi.org/10.1186/s12859-021-04344-9) / [CellProfiler 3 [2018]](https://doi.org/10.1371/journal.pbio.2005970)
 
-### CellProfiler Analyst
+### CellProfiler Analyst {#cpa}
 
 [downloads](https://cellprofileranalyst.org/releases)  
 
@@ -54,7 +58,7 @@ papers -  [CellProfiler-plugins [2023]](https://doi.org/10.1111/jmi.13223) / [Ce
 
 papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/btab634)
 
-### Piximi
+### Piximi {#piximi}
 
 [Piximi.app](https://piximi.app/) 
 
@@ -66,7 +70,7 @@ papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/
 
 [preprint](https://doi.org/10.1101/2024.06.03.597232v2)
 
-### Distributed-Something
+### Distributed-Something {#ds}
 
 [GitHub](https://distributedscience.github.io/Distributed-Something/introduction.html)
 
@@ -74,7 +78,7 @@ papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/
 
 Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedScience/Distributed-CellProfiler) / [Distributed-Collate](https://github.com/DistributedScience/Distributed-Collate) / [Distributed-DeepProfiler](https://github.com/DistributedScience/Distributed-DeepProfiler) / [Distributed-Fiji](https://github.com/DistributedScience/Distributed-Fiji) / [Distributed-HelloWorld](https://github.com/DistributedScience/Distributed-HelloWorld) / [Distributed-OMEZarrCreator](https://github.com/DistributedScience/Distributed-OMEZarrCreator)
 
-### Bilayers 
+### Bilayers {#bilayers}
 
 [demo app](https://github.com/COBA-NIH/docker_gradio_demo)
 
@@ -86,7 +90,11 @@ Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedSci
 
 ## Educational materials {#educational}
 
-### Educational papers we wrote
+Jump to:
+
+[Educational papers](#ed-papers) | [Things we lead](#ed-lead) | [Major contributors](#ed-major) | [Minor contributors](#ed-minor)
+
+### Educational papers we wrote {#ed-papers}
 
 [The Twenty Questions of Bioimage Object Analysis[2023]](https://doi.org/10.1038/s41592-023-01919-7) / [Tool implementation](https://www.boaq.org)
 
@@ -96,7 +104,7 @@ Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedSci
 
 [A postdoctoral training program in bioimage analysis[2024]](https://doi.org/10.1091/mbc.E24-05-0214)
 
-### Stuff we make
+### Things we lead {#ed-lead}
 
 [Lab website](https://cimini-lab.broadinstitute.org/)
 
@@ -120,13 +128,13 @@ Bioimaging Guide - [English](https://www.bioimagingguide.org/welcome.html) / [Sp
 
 The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) / [Paper - Cell Painting Gallery: an open resource for image-based profiling[2024]](https://doi.org/10.1038/s41592-024-02399-z)
 
-### Stuff we are major (but far from sole) contributors to
+### Things we are major (but far from sole) contributors to {#ed-major}
 
 Global Bioimage Analysts' Society (GloBIAS) Global Registries - [For bioimage analysts](https://www.globias.org/resources/bioimage-analyst-db) / [For bioimage analysis trainers](https://www.globias.org/resources/bia-trainers-db)
 
 Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) / [2024 edition](https://www.i2kconference.org/virtual)
 
-### Stuff we contributed to (but others led)
+### Things we contributed to (but others led) {#ed-minor}
 
 [Online guide for checklists for imaging and image analysis](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)  / [Paper -  Community-developed checklists for publishing images and image analysis [2023]](https://doi.org/10.1038/s41592-023-01987-9)
 
@@ -136,7 +144,11 @@ Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) /
 
 ## Papers you might find useful {#papers}
 
-### Protocols
+Jump to:
+
+[Protocols](#protocols) | [Reviews](#reviews) | [Community Surveys](#surveys) | [Opinions/Perspectives](#opinions)
+
+### Protocols {#protocols}
 
 [ImageJ and CellProfiler: Complements in Open-Source Bioimage Analysis[2020]](https://doi.org/10.1002/cpz1.89)
 
@@ -144,21 +156,19 @@ Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) /
 
 [Optimizing the Cell Painting assay for image-based profiling[2023]](https://doi.org/10.1038/s41596-023-00840-9)
 
-### Reviews
+### Reviews {#reviews}
 
 [Open-source deep-learning software for bioimage segmentation[2021]](https://doi.org/10.1091/mbc.E20-10-0660)
 
 [Defining the boundaries: challenges and advances in identifying cells in microscopy images[2024]](https://doi.org/10.1016/j.copbio.2023.103055)
 
-### Community Surveys
+### Community Surveys {#surveys}
 
 [2020 BioImage Analysis Survey: Community experiences and needs for the future[2021]](https://doi.org/10.1017/S2633903X21000039)
 
 [Bridging Imaging Users to Imaging Analysis - A community survey[2023]](https://doi.org/10.1111/jmi.13229)
 
-[Current active 2024 survey](https://broad.io/imagingsurvey)
-
-### Opinions/Perspectives
+### Opinions/Perspectives {#opinions}
 
 [Moving beyond the desktop: Prospects for Practical Bioimage Analysis via the Web[2023]](https://doi.org/10.3389/fbinf.2023.1233748)
 
