@@ -5,9 +5,13 @@ Below are ways to collaborate our lab, pointers to our software and its document
 This page last updated 2025-Feb-06
 
 Jump to:
-[Software](#software)
 
-## Work with us
+[Work with us](#collaborate)
+[Software](#software)
+[Educational materials](#educational)
+[Papers](#papers)
+
+## Work with us {#collaborate}
 
 [Lab website](https://cimini-lab.broadinstitute.org/)
 
@@ -83,7 +87,7 @@ Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedSci
 
 [Dockerhub](https://hub.docker.com/u/bilayer)
 
-## Educational materials
+## Educational materials {#educational}
 
 ### Educational papers we wrote
 
@@ -133,7 +137,7 @@ Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) /
 
 [Microtutor imaging education platform](https://microtutor.globalbioimaging.org/)
 
-## Papers you might find useful
+## Papers you might find useful {#papers}
 
 ### Protocols
 
