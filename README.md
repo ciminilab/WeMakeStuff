@@ -1,16 +1,22 @@
 # Cimini Lab resources 
 
+Below are ways to collaborate our lab, pointers to our software and its documentation, and the educational resources and papers we have been a part of. We hope these resources help you out!
+
+This page last updated 2025-Feb-06
+
 ## Work with us
 
 [Lab website](https://cimini-lab.broadinstitute.org/)
 
-[Office hours link](broad.io/imagingofficehours)
+[Office hours link](https://broad.io/imagingofficehours)
 
 [CellProfiler annual support plan](https://cellprofiler.org/supportplan)
 
 [COBA signup form](https://openbioimageanalysis.org/collaborate)
 
 [Beth's Broad bio page with contact email](https://www.broadinstitute.org/bios/beth-cimini)
+
+[Google Summer of Code 2025 Project ideas](https://ciminilab.github.io/GoogleSummerOfCode/)
 
 ## Software we make
 
@@ -68,6 +74,8 @@ Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedSci
 
 [demo app](https://github.com/COBA-NIH/docker_gradio_demo)
 
+[documentation](https://bilayers.org/)
+
 [GitHub](https://github.com/bilayer-containers/bilayers)
 
 [Dockerhub](https://hub.docker.com/u/bilayer)
@@ -88,7 +96,7 @@ Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedSci
 
 [Lab website](https://cimini-lab.broadinstitute.org/)
 
-[Lab paper pages](https://cimini-lab.broadinstitute.org/papers)
+[Lab paper page](https://cimini-lab.broadinstitute.org/papers)
 
 [Current lab preprints (from Beth's CV)](https://docs.google.com/document/d/1zZfoo2b-IbEDbpJ5pH6V0KlfdiY7A-clsAdRr-ouYX8/preview#heading=h.ea9i2felg8yq)
 
@@ -96,7 +104,7 @@ Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedSci
 
 [YouTube tutorials](https://www.youtube.com/channel/UC_id9sE-vu_i30Bd-skay7Q)
 
-[Office hours link](broad.io/imagingofficehours)
+[Office hours link](https://broad.io/imagingofficehours)
 
 [The Scientific Community Image Forum - Forum.image.sc](https://forum.image.sc/) / [Paper - Scientific Community Image Forum: A discussion forum for scientific image software[2019]](https://doi.org/10.1371/journal.pbio.3000340)
 
