@@ -6,10 +6,7 @@ This page last updated 2025-Feb-06
 
 Jump to:
 
-[Work with us](#collaborate)
-[Software](#software)
-[Educational materials](#educational)
-[Papers](#papers)
+[Work with us](#collaborate) | [Software](#software) | [Educational materials](#educational) | [Papers](#papers)
 
 ## Work with us {#collaborate}
 
