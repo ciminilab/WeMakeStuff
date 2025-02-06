@@ -5,7 +5,7 @@ Below are ways to collaborate our lab, pointers to our software and its document
 This page last updated 2025-Feb-06
 
 Jump to:
-[Software](Software-we-make)
+[Software](#software)
 
 ## Work with us
 
@@ -21,7 +21,7 @@ Jump to:
 
 [Google Summer of Code 2025 Project ideas](https://ciminilab.github.io/GoogleSummerOfCode/)
 
-## Software we make
+## Software we make {#software}  
 
 ### CellProfiler
 
