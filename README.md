@@ -2,7 +2,7 @@
 
 Below are ways to collaborate our lab, pointers to our software and its documentation, and the educational resources and papers we have been a part of. We hope these resources help you out!
 
-This page last updated 2025-Feb-06
+This page last updated 2025-May-15
 
 Jump to:
 
@@ -117,6 +117,8 @@ Jump to:
 [YouTube tutorials](https://www.youtube.com/channel/UC_id9sE-vu_i30Bd-skay7Q)
 
 [Office hours link](https://broad.io/imagingofficehours)
+
+[Ask Erin/Dear Beth image analysis tips podcast](https://www.youtube.com/@AskErinDearBeth)
 
 [The Scientific Community Image Forum - Forum.image.sc](https://forum.image.sc/) / [Paper - Scientific Community Image Forum: A discussion forum for scientific image software[2019]](https://doi.org/10.1371/journal.pbio.3000340)
 
