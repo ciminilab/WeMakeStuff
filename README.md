@@ -50,6 +50,8 @@ Jump to:
 
 [tutorials](https://tutorials.cellprofiler.org/)
 
+[video tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)
+
 [examples](https://cellprofiler.org/examples)
 
 [GitHub](https://github.com/CellProfiler/CellProfiler)  
@@ -76,13 +78,15 @@ papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/
 
 [Piximi.app](https://piximi.app/) 
 
-[manual](https://documentation.piximi.app/)  
+[manual and tutorials](https://documentation.piximi.app/)  
 
 [GitHub](https://github.com/piximi/piximi) 
 
 [help forum](https://forum.image.sc/tag/piximi) 
 
 [preprint](https://doi.org/10.1101/2024.06.03.597232v2)
+
+[video tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBDe5KHQL3vGXq2-alBOj2Zh)
 
 ### Distributed-Something {#ds}
 
@@ -101,6 +105,8 @@ Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedSci
 [GitHub](https://github.com/bilayer-containers/bilayers)
 
 [Dockerhub](https://hub.docker.com/u/bilayer)
+
+[video tutorial](https://youtu.be/X-7HTI1ZGUc)
 
 ## Educational materials {#educational}
 
