@@ -16,7 +16,7 @@ Jump to:
 
 [Lab paper page](https://cimini-lab.broadinstitute.org/papers)
 
-[Current lab preprints (from Beth's CV)](https://docs.google.com/document/d/1zZfoo2b-IbEDbpJ5pH6V0KlfdiY7A-clsAdRr-ouYX8/preview#heading=h.ea9i2felg8yq)
+[Current lab preprints (from Beth's CV)](https://docs.google.com/document/d/1zZfoo2b-IbEDbpJ5pH6V0KlfdiY7A-clsAdRr-ouYX8/preview?rm=demo&tab=t.0#heading=h.ea9i2felg8yq)
 
 [Beth's Broad bio page with contact email](https://www.broadinstitute.org/bios/beth-cimini)
 
