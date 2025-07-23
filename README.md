@@ -2,25 +2,37 @@
 
 Below are ways to collaborate our lab, pointers to our software and its documentation, and the educational resources and papers we have been a part of. We hope these resources help you out!
 
-This page last updated 2025-May-15
+This page last updated 2025-July-23
 
 Jump to:
 
-[Work with us](#collaborate) | [Software](#software) | [Educational materials](#educational) | [Papers](#papers)
+[About us](#about) | [Work with us](#collaborate) | [Software](#software) | [Educational materials](#educational) | [Papers](#papers)
 
-## Work with us {#collaborate}
+## About us {#about}
 
 [Lab website](https://cimini-lab.broadinstitute.org/)
 
-[Office hours link](https://broad.io/imagingofficehours)
+[Lab members](https://cimini-lab.broadinstitute.org/people)
 
-[CellProfiler annual support plan](https://cellprofiler.org/supportplan)
+[Lab paper page](https://cimini-lab.broadinstitute.org/papers)
 
-[COBA signup form](https://openbioimageanalysis.org/collaborate)
+[Current lab preprints (from Beth's CV)](https://docs.google.com/document/d/1zZfoo2b-IbEDbpJ5pH6V0KlfdiY7A-clsAdRr-ouYX8/preview#heading=h.ea9i2felg8yq)
 
 [Beth's Broad bio page with contact email](https://www.broadinstitute.org/bios/beth-cimini)
 
-[Google Summer of Code 2025 Project ideas](https://ciminilab.github.io/GoogleSummerOfCode/)
+[Beth's CV](https://docs.google.com/document/d/1zZfoo2b-IbEDbpJ5pH6V0KlfdiY7A-clsAdRr-ouYX8/preview?rm=demo&tab=t.0)
+
+## Work with us {#collaborate}
+
+[Learn about our collaboration models](https://cimini-lab.broadinstitute.org/collaboration)
+
+[Image Analysis Collaboration: A Practical Guide](https://cimini-lab.broadinstitute.org/collaborator_guide)
+
+[Office hours link (free for anyone!)](https://broad.io/imagingofficehours)
+
+[CellProfiler annual support plan](https://cellprofiler.org/supportplan)
+
+[Smaller project ideas we care about (from Google Summer of Code 2025 proposal)](https://ciminilab.github.io/GoogleSummerOfCode/)
 
 ## Software we make {#software}  
 
@@ -37,6 +49,8 @@ Jump to:
 [plugins documentation](https://plugins.cellprofiler.org/overview.html)
 
 [tutorials](https://tutorials.cellprofiler.org/)
+
+[examples](https://cellprofiler.org/examples)
 
 [GitHub](https://github.com/CellProfiler/CellProfiler)  
 
@@ -106,11 +120,7 @@ Jump to:
 
 ### Things we lead {#ed-lead}
 
-[Lab website](https://cimini-lab.broadinstitute.org/)
-
-[Lab paper page](https://cimini-lab.broadinstitute.org/papers)
-
-[Current lab preprints (from Beth's CV)](https://docs.google.com/document/d/1zZfoo2b-IbEDbpJ5pH6V0KlfdiY7A-clsAdRr-ouYX8/preview#heading=h.ea9i2felg8yq)
+[The Scientific Community Image Forum - Forum.image.sc](https://forum.image.sc/) / [**Paper** - Scientific Community Image Forum: A discussion forum for scientific image software[2019]](https://doi.org/10.1371/journal.pbio.3000340)
 
 [Imaging Platform Blog](https://blog.cellprofiler.org)
 
@@ -118,9 +128,7 @@ Jump to:
 
 [Office hours link](https://broad.io/imagingofficehours)
 
-[Ask Erin/Dear Beth image analysis tips podcast](https://www.youtube.com/@AskErinDearBeth)
-
-[The Scientific Community Image Forum - Forum.image.sc](https://forum.image.sc/) / [Paper - Scientific Community Image Forum: A discussion forum for scientific image software[2019]](https://doi.org/10.1371/journal.pbio.3000340)
+[Ask Erin/Dear Beth image analysis tips video podcast](https://www.youtube.com/@AskErinDearBeth) / [Resources from podcast episodes](https://ciminilab.github.io/AskErin_DearBeth/)
 
 [COBA website](https://openbioimageanalysis.org/)
 
@@ -128,7 +136,7 @@ Bioimaging Guide - [English](https://www.bioimagingguide.org/welcome.html) / [Sp
 
 [The Image Based Profiling Handbook](https://cytomining.github.io/profiling-handbook/)
 
-The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) / [Paper - Cell Painting Gallery: an open resource for image-based profiling[2024]](https://doi.org/10.1038/s41592-024-02399-z)
+The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) / [**Paper** - Cell Painting Gallery: an open resource for image-based profiling[2024]](https://doi.org/10.1038/s41592-024-02399-z)
 
 ### Things we are major (but far from sole) contributors to {#ed-major}
 
@@ -138,9 +146,9 @@ Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) /
 
 ### Things we contributed to (but others led) {#ed-minor}
 
-[Online guide for checklists for imaging and image analysis](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)  / [Paper -  Community-developed checklists for publishing images and image analysis [2023]](https://doi.org/10.1038/s41592-023-01987-9)
+[Online guide for checklists for imaging and image analysis](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)  / [**Paper** -  Community-developed checklists for publishing images and image analysis [2023]](https://doi.org/10.1038/s41592-023-01987-9)
 
-[Metrics Reloaded online metric chooser](https://metrics-reloaded.dkfz.de/) / [Paper 1 - Metrics reloaded: recommendations for image analysis validation[2024]](https://doi.org/10.1038/s41592-023-02151-z) / [Paper 2 - Understanding metric-related pitfalls in image analysis validation[2024]](https://doi.org/10.1038/s41592-023-02150-0)
+[Metrics Reloaded online metric chooser](https://metrics-reloaded.dkfz.de/) / [**Paper 1** - Metrics reloaded: recommendations for image analysis validation[2024]](https://doi.org/10.1038/s41592-023-02151-z) / [**Paper 2** - Understanding metric-related pitfalls in image analysis validation[2024]](https://doi.org/10.1038/s41592-023-02150-0)
 
 [Microtutor imaging education platform](https://microtutor.globalbioimaging.org/)
 
