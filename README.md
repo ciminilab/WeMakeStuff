@@ -32,7 +32,7 @@ Jump to:
 
 [CellProfiler annual support plan](https://cellprofiler.org/supportplan)
 
-[Smaller project ideas we care about (from Google Summer of Code 2025 proposal)](https://ciminilab.github.io/GoogleSummerOfCode/)
+[Tool contributions you could make (from Google Summer of Code 2025 proposal)](https://ciminilab.github.io/GoogleSummerOfCode/)
 
 ## Software we make {#software}  
 
