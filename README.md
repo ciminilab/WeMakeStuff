@@ -2,7 +2,7 @@
 
 Below are ways to collaborate our lab, pointers to our software and its documentation, and the educational resources and papers we have been a part of. We hope these resources help you out!
 
-This page last updated 2025-July-23
+This page last updated 2025-October-8
 
 Jump to:
 
@@ -28,7 +28,7 @@ Jump to:
 
 [Image Analysis Collaboration: A Practical Guide](https://cimini-lab.broadinstitute.org/collaborator_guide)
 
-[Office hours link (free for anyone!)](https://broad.io/imagingofficehours)
+[Office hours link (free for anyone! just show up!)](https://broad.io/imagingofficehours)
 
 [CellProfiler annual support plan](https://cellprofiler.org/supportplan)
 
@@ -98,15 +98,17 @@ Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedSci
 
 ### Bilayers {#bilayers}
 
-[demo app](https://github.com/COBA-NIH/docker_gradio_demo)
-
 [documentation](https://bilayers.org/)
+
+[slide deck describing idea](https://zenodo.org/records/14751700)
 
 [GitHub](https://github.com/bilayer-containers/bilayers)
 
 [Dockerhub](https://hub.docker.com/u/bilayer)
 
 [video tutorial](https://youtu.be/X-7HTI1ZGUc)
+
+[old demo app](https://github.com/COBA-NIH/docker_gradio_demo)
 
 ## Educational materials {#educational}
 
@@ -148,7 +150,7 @@ The Cell Painting Gallery (image repository) - [AWS RODA Website](https://regist
 
 Global Bioimage Analysts' Society (GloBIAS) Global Registries - [For bioimage analysts](https://www.globias.org/resources/bioimage-analyst-db) / [For bioimage analysis trainers](https://www.globias.org/resources/bia-trainers-db)
 
-Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) / [2024 edition](https://www.i2kconference.org/virtual)
+Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) / [2024 edition](https://2024.i2kconference.org/virtual) / [2025 edition](https://www.i2kconference.org/virtual)
 
 ### Things we contributed to (but others led) {#ed-minor}
 
@@ -183,6 +185,8 @@ Jump to:
 [2020 BioImage Analysis Survey: Community experiences and needs for the future[2021]](https://doi.org/10.1017/S2633903X21000039)
 
 [Bridging Imaging Users to Imaging Analysis - A community survey[2023]](https://doi.org/10.1111/jmi.13229)
+
+2024 survey results - [forum post](https://forum.image.sc/t/2024-bridging-imaging-users-to-image-analysis-survey/116530) / [repository](https://github.com/COBA-NIH/2024_Bridging_Imaging_Users_to_Imaging_Analysis_Survey) 
 
 ### Opinions/Perspectives {#opinions}
 
