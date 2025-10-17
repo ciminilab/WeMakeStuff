@@ -34,6 +34,8 @@ Jump to:
 
 [Tool contributions you could make (from Google Summer of Code 2025 proposal)](https://ciminilab.github.io/GoogleSummerOfCode/)
 
+[Attend our semi-annual bootcamp](https://cimini-lab.broadinstitute.org/bioimage-analysis-bootcamp)
+
 ## Software we make {#software}  
 
 Jump to:
@@ -144,7 +146,9 @@ Bioimaging Guide - [English](https://www.bioimagingguide.org/welcome.html) / [Sp
 
 [The Image Based Profiling Handbook](https://cytomining.github.io/profiling-handbook/)
 
-The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) / [**Paper** - Cell Painting Gallery: an open resource for image-based profiling[2024]](https://doi.org/10.1038/s41592-024-02399-z)
+The Cell Painting Gallery (image repository) - [AWS RODA Website](https://registry.opendata.aws/cellpainting-gallery/) / [Explore on Quilt](https://open.quiltdata.com/b/cellpainting-gallery) /  [See featured on the National AI Ready Resource (NAIRR) Pilot website](https://nairrpilot.org/pilotresources) / [**Paper** - Cell Painting Gallery: an open resource for image-based profiling[2024]](https://doi.org/10.1038/s41592-024-02399-z)
+
+[Bioimage Analysis Beginnings Broad Bootcamp (week-long paid course)](https://cimini-lab.broadinstitute.org/bioimage-analysis-bootcamp)
 
 ### Things we are major (but far from sole) contributors to {#ed-major}
 
@@ -160,19 +164,37 @@ Virtual I2K Meeting - [2023 edition](https://2023.i2kconference.org/workshops) /
 
 [Microtutor imaging education platform](https://microtutor.globalbioimaging.org/)
 
+Boston BioImage Analysis Society (BostonBIAS) - [sign up form](https://docs.google.com/forms/d/e/1FAIpQLScdHEtWUUm7bvzrw2hlYgkm6i5cfBZv_laHQFxfRQZ5MC5_vg/viewform)
+
+[Cold Spring Harbor Quantitative Imaging Course (two-week paid course)](https://meetings.cshl.edu/courses.aspx?course=C-QICM)
+
 ## Papers you might find useful {#papers}
+
+[Full list of lab papers and preprints](https://docs.google.com/document/d/1zZfoo2b-IbEDbpJ5pH6V0KlfdiY7A-clsAdRr-ouYX8/preview?rm=demo&tab=t.0#heading=h.z09a6qm8nrki)
 
 Jump to:
 
-[Protocols](#protocols) | [Reviews](#reviews) | [Community Surveys](#surveys) | [Opinions/Perspectives](#opinions)
+[Profiling](#profiling) | [Tools and methods](#tools) | [Reviews](#reviews) | [Community Surveys](#surveys) | [Opinions/Perspectives](#opinions)
 
-### Protocols {#protocols}
-
-[ImageJ and CellProfiler: Complements in Open-Source Bioimage Analysis[2020]](https://doi.org/10.1002/cpz1.89)
+### Profiling protocols and methods {#profiling}
 
 [Interpreting image-based profiles using Morpheus and single-cell visualization[2023]](https://doi.org/10.1002/cpz1.713)
 
 [Optimizing the Cell Painting assay for image-based profiling[2023]](https://doi.org/10.1038/s41596-023-00840-9)
+
+[A genome-wide atlas of human cell morphology[2024]](https://doi.org/10.1038/s41592-024-02537-7)
+
+[Live-cell painting: Image-based profiling in live cells using acridine orange[2025]](https://doi.org/10.1091/mbc.E24-07-0308)
+
+[Alternate dyes for image-based profiling assays[2025]](https://doi.org/10.1016/j.slasd.2025.100268)
+
+### Computational tools and methods {#tools}
+
+[ImageJ and CellProfiler: Complements in Open-Source Bioimage Analysis[2020]](https://doi.org/10.1002/cpz1.89)
+
+[Reproducible image-based profiling with Pycytominer[2025]](https://doi.org/10.1038/s41592-025-02611-8)
+
+[CellPhePy: A python implementation of the CellPhe toolkit for automated cell phenotyping from microscopy time-lapse videos[2025]](https://doi.org/10.1111/jmi.13416)
 
 ### Reviews {#reviews}
 
@@ -200,4 +222,4 @@ Jump to:
 
 [Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data (preprint)[2024]](https://doi.org/10.48550/arXiv.2401.13022)
 
-[Enabling Global Image Data Sharing in the Life Sciences (preprint)[2024]](https://doi.org/10.48550/arXiv.2401.13023)
+[Enabling Global Image Data Sharing in the Life Sciences [2025]](https://doi.org/10.1038/s41592-024-02585-z)
