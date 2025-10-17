@@ -2,7 +2,7 @@
 
 Below are ways to collaborate our lab, pointers to our software and its documentation, and the educational resources and papers we have been a part of. We hope these resources help you out!
 
-This page last updated 2025-October-8
+This page last updated 2025-October-17
 
 Jump to:
 
