@@ -40,77 +40,72 @@ Jump to:
 
 Jump to:
 
-[CellProfiler](#cellprofiler) | [CellProfiler Analyst](#cpa) | [Piximi](#piximi) | [Distributed Something](#ds) | [Bilayers](#bilayers)
+| ![CellProfiler](assets/CP_icon.png) | ![CellProfiler Analyst](assets/CPA_icon.png) | ![Piximi](assets/Piximi_icon.png) | ![Distributed Something](assets/DS_icon.png) | ![Bilayers](assets/Bilyers_icon.png) |
+| [CellProfiler](#cellprofiler) | [CellProfiler Analyst](#cpa) | [Piximi](#piximi) | [Distributed Something](#ds) | [Bilayers](#bilayers) |
 
 ### CellProfiler {#cellprofiler}
 
-[downloads](https://cellprofiler.org/releases) 
+![CellProfiler icon](assets/CP_icon.png)
+Open source image analysis software.
+Highly flexible workflow management tool with a robust plugin system.
 
-[manual](https://broad.io/CellProfilerManual) 
+| [Download CellProfiler](https://cellprofiler.org/releases) | [CellProfiler Manual](https://broad.io/CellProfilerManual) | [CellProfiler on GitHub](https://github.com/CellProfiler/CellProfiler)| [CellProfiler Plugins](https://plugins.cellprofiler.org/overview.html)| [CellProfiler Plugins on Github](https://github.com/CellProfiler/CellProfiler-plugins) |
 
-[plugins documentation](https://plugins.cellprofiler.org/overview.html)
+#### Learn to Use CellProfiler
 
-[tutorials](https://tutorials.cellprofiler.org/)
+| [CellProfiler Tutorials](https://tutorials.cellprofiler.org/) | [CellProfiler Video Tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL) | [CellProfiler Examples](https://cellprofiler.org/examples) | [CellProfiler Help Forum](https://forum.image.sc/tag/cellprofiler) | [CellProfiler pipeline suggester](https://www.boaq.org) |
 
-[video tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)
+#### Papers about CellProfiler
 
-[examples](https://cellprofiler.org/examples)
-
-[GitHub](https://github.com/CellProfiler/CellProfiler)  
-
-[help forum](https://forum.image.sc/tag/cellprofiler) 
-
-[pipeline suggester](https://www.boaq.org)
-
-papers -  [CellProfiler-plugins [2023]](https://doi.org/10.1111/jmi.13223) / [CellProfiler 4 [2021]](https://doi.org/10.1186/s12859-021-04344-9) / [CellProfiler 3 [2018]](https://doi.org/10.1371/journal.pbio.2005970)
+[CellProfiler-plugins, 2023](https://doi.org/10.1111/jmi.13223)\
+[CellProfiler 4, 2021](https://doi.org/10.1186/s12859-021-04344-9)\
+[CellProfiler 3, 2018](https://doi.org/10.1371/journal.pbio.2005970)\
 
 ### CellProfiler Analyst {#cpa}
 
-[downloads](https://cellprofileranalyst.org/releases)  
+![CellProfiler Analyst icon](assets/CPA_icon.png)
+Open source data exploration software.
 
-[manual](https://cellprofileranalyst.org/manuals)  
+| [Download CellProfiler Analyst](https://cellprofileranalyst.org/releases) | [CellProfiler Analyst Manual](https://cellprofileranalyst.org/manuals) | [CellProfiler Analyst on GitHub](https://github.com/CellProfiler/CellProfiler-Analyst)| [CellProfiler Analyst Help Forum](https://forum.image.sc/tag/cellprofiler-analyst) |
 
-[GitHub](https://github.com/CellProfiler/CellProfiler-Analyst)  
+#### Papers about CellProfiler Analyst
 
-[help forum](https://forum.image.sc/tag/cellprofiler-analyst) 
-
-papers - [CellProfiler Analyst 3 [2021]](https://doi.org/10.1093/bioinformatics/btab634)
+[CellProfiler Analyst 3, 2021](https://doi.org/10.1093/bioinformatics/btab634)
 
 ### Piximi {#piximi}
 
-[Piximi.app](https://piximi.app/) 
+![Piximi icon](assets/Piximi_icon.png)
+Open-source, browser-based platform for interactive bioimage analysis.
+User-friendly interface for annotation, segmentation, classification, and quantitative measurement of microscopy images.
 
-[manual and tutorials](https://documentation.piximi.app/)  
+| [Piximi.app](https://piximi.app/) | [Piximi Manual and Tutorials](https://documentation.piximi.app/) | [Piximi Video Tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBDe5KHQL3vGXq2-alBOj2Zh) | [Piximi on GitHub](https://github.com/piximi/piximi) | [Piximi Help Forum](https://forum.image.sc/tag/piximi) |
 
-[GitHub](https://github.com/piximi/piximi) 
+#### Papers about Piximi
 
-[help forum](https://forum.image.sc/tag/piximi) 
-
-[preprint](https://doi.org/10.1101/2024.06.03.597232v2)
-
-[video tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBDe5KHQL3vGXq2-alBOj2Zh)
+[Preprint, 2024](https://doi.org/10.1101/2024.06.03.597232)
 
 ### Distributed-Something {#ds}
 
-[GitHub](https://distributedscience.github.io/Distributed-Something/introduction.html)
+![DS icon](assets/DS_icon.png)
+Run almost any encapsulated docker container in the Amazon Web Services infrastructure.
 
-[paper](https://doi.org/10.1038/s41592-023-01918-8)
+| [Distributed-Someting on Github](https://github.com/DistributedScience/Distributed-Something) | [Distributed-Something Documentation](https://distributedscience.github.io/Distributed-Something/introduction.html) |
 
-Distributed tools - [Distributed-CellProfiler](https://github.com/DistributedScience/Distributed-CellProfiler) / [Distributed-Collate](https://github.com/DistributedScience/Distributed-Collate) / [Distributed-DeepProfiler](https://github.com/DistributedScience/Distributed-DeepProfiler) / [Distributed-Fiji](https://github.com/DistributedScience/Distributed-Fiji) / [Distributed-HelloWorld](https://github.com/DistributedScience/Distributed-HelloWorld) / [Distributed-OMEZarrCreator](https://github.com/DistributedScience/Distributed-OMEZarrCreator)
+#### Distributed Tools
+
+| [Distributed-CellProfiler](https://github.com/DistributedScience/Distributed-CellProfiler) | [Distributed-Collate](https://github.com/DistributedScience/Distributed-Collate) | [Distributed-DeepProfiler](https://github.com/DistributedScience/Distributed-DeepProfiler) | [Distributed-Fiji](https://github.com/DistributedScience/Distributed-Fiji) | [Distributed-HelloWorld](https://github.com/DistributedScience/Distributed-HelloWorld) | [Distributed-OMEZarrCreator](https://github.com/DistributedScience/Distributed-OMEZarrCreator) |
+
+#### Papers about Distributed-Something
+
+[Distributed-Something: scripts to leverage AWS storage and computing for distributed workflows at scale, 2023](https://doi.org/10.1038/s41592-023-01918-8)
 
 ### Bilayers {#bilayers}
 
-[documentation](https://bilayers.org/)
+![Bilayers icon](assets/Bilayers_icon.png)
+Open-source specification designed to characterize software containers in terms of expected inputs, outputs, and tunable parameters.
+Its primary aim is to make bioimage analysis deep-learning algorithms more accessible by automatically generating intuitive, no-terminal-required user interfaces.
 
-[slide deck describing idea](https://zenodo.org/records/14751700)
-
-[GitHub](https://github.com/bilayer-containers/bilayers)
-
-[Dockerhub](https://hub.docker.com/u/bilayer)
-
-[video tutorial](https://youtu.be/X-7HTI1ZGUc)
-
-[old demo app](https://github.com/COBA-NIH/docker_gradio_demo)
+| [Bilayers documentation](https://bilayers.org/) | [Bilayers on GitHub](https://github.com/bilayer-containers/bilayers) | [Bilayers on Dockerhub](https://hub.docker.com/u/bilayer) | [Slide deck describing idea of Bilayers](https://zenodo.org/records/14751700) | [Bilayers video tutorial](https://youtu.be/X-7HTI1ZGUc) | [Old demo application of Bilayers](https://github.com/COBA-NIH/docker_gradio_demo) |
 
 ## Educational materials {#educational}
 
