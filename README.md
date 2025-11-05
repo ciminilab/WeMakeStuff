@@ -38,18 +38,18 @@ Jump to:
 
 ## Software we make {#software}  
 
-Jump to:
-
-| ![CellProfiler](assets/CP_icon.png) | ![CellProfiler Analyst](assets/CPA_icon.png) | ![Piximi](assets/Piximi_icon.png) | ![Distributed Something](assets/DS_icon.png) | ![Bilayers](assets/Bilyers_icon.png) |
+| ![CellProfiler](assets/CP_icon.png) | ![CellProfiler Analyst](assets/CPA_icon.png) | ![Piximi](assets/Piximi_icon.png) | ![Distributed Something](assets/DS_icon.png) | ![Bilayers](assets/Bilayers_icon.png) |
+| :-: | :-: | :-: | :-: | :-: |
 | [CellProfiler](#cellprofiler) | [CellProfiler Analyst](#cpa) | [Piximi](#piximi) | [Distributed Something](#ds) | [Bilayers](#bilayers) |
 
 ### CellProfiler {#cellprofiler}
 
-![CellProfiler icon](assets/CP_icon.png)
+<img src="assets/CP_icon.png" width="200" alt="CellProfiler icon">
+
 Open source image analysis software.
 Highly flexible workflow management tool with a robust plugin system.
 
-| [Download CellProfiler](https://cellprofiler.org/releases) | [CellProfiler Manual](https://broad.io/CellProfilerManual) | [CellProfiler on GitHub](https://github.com/CellProfiler/CellProfiler)| [CellProfiler Plugins](https://plugins.cellprofiler.org/overview.html)| [CellProfiler Plugins on Github](https://github.com/CellProfiler/CellProfiler-plugins) |
+| [Download CellProfiler](https://cellprofiler.org/releases) | [CellProfiler Manual](https://broad.io/CellProfilerManual) | [CellProfiler on GitHub](https://github.com/CellProfiler/CellProfiler) | [CellProfiler Plugins Documentation](https://plugins.cellprofiler.org/overview.html) | [CellProfiler Plugins on Github](https://github.com/CellProfiler/CellProfiler-plugins) |
 
 #### Learn to Use CellProfiler
 
@@ -59,11 +59,12 @@ Highly flexible workflow management tool with a robust plugin system.
 
 [CellProfiler-plugins, 2023](https://doi.org/10.1111/jmi.13223)\
 [CellProfiler 4, 2021](https://doi.org/10.1186/s12859-021-04344-9)\
-[CellProfiler 3, 2018](https://doi.org/10.1371/journal.pbio.2005970)\
+[CellProfiler 3, 2018](https://doi.org/10.1371/journal.pbio.2005970)
 
 ### CellProfiler Analyst {#cpa}
 
-![CellProfiler Analyst icon](assets/CPA_icon.png)
+<img src="assets/CPA_icon.png" width="200" alt="CellProfiler Analyst icon">
+
 Open source data exploration software.
 
 | [Download CellProfiler Analyst](https://cellprofileranalyst.org/releases) | [CellProfiler Analyst Manual](https://cellprofileranalyst.org/manuals) | [CellProfiler Analyst on GitHub](https://github.com/CellProfiler/CellProfiler-Analyst)| [CellProfiler Analyst Help Forum](https://forum.image.sc/tag/cellprofiler-analyst) |
@@ -74,7 +75,8 @@ Open source data exploration software.
 
 ### Piximi {#piximi}
 
-![Piximi icon](assets/Piximi_icon.png)
+<img src="assets/Piximi_icon.png" width="200" alt="Piximi icon">
+
 Open-source, browser-based platform for interactive bioimage analysis.
 User-friendly interface for annotation, segmentation, classification, and quantitative measurement of microscopy images.
 
@@ -86,7 +88,8 @@ User-friendly interface for annotation, segmentation, classification, and quanti
 
 ### Distributed-Something {#ds}
 
-![DS icon](assets/DS_icon.png)
+<img src="assets/DS_icon.png" width="200" alt="Distributed-Something icon">
+
 Run almost any encapsulated docker container in the Amazon Web Services infrastructure.
 
 | [Distributed-Someting on Github](https://github.com/DistributedScience/Distributed-Something) | [Distributed-Something Documentation](https://distributedscience.github.io/Distributed-Something/introduction.html) |
@@ -101,7 +104,8 @@ Run almost any encapsulated docker container in the Amazon Web Services infrastr
 
 ### Bilayers {#bilayers}
 
-![Bilayers icon](assets/Bilayers_icon.png)
+<img src="assets/Bilayers_icon.png" width="200" alt="Bilayers icon">
+
 Open-source specification designed to characterize software containers in terms of expected inputs, outputs, and tunable parameters.
 Its primary aim is to make bioimage analysis deep-learning algorithms more accessible by automatically generating intuitive, no-terminal-required user interfaces.
 
